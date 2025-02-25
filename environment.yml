@@ -1,0 +1,14 @@
+name: cccnn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - openmm=8.2.0
+  - scikit-image=0.25.1
+  - matplotlib=3.10
+  - pip=25.0
+  - pip:
+      - torch=2.6.0
+      - torchvision=0.21.0
+      - torchaudio=2.6.0
