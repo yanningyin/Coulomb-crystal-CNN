@@ -3,7 +3,8 @@
 
 ## Ion counting and temperature determination of Coulomb-crystallized laser-cooled ions in traps using convolutional neural networks
 
-<!-- [![Static Badge](https://img.shields.io/badge/arXiv-ToBeFilled-B31B1B.svg)](https://to-be-filled) -->
+[![Static Badge](https://img.shields.io/badge/arXiv-2502.18442-B31B1B.svg)](https://arxiv.org/abs/2502.18442)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14926184.svg)](https://doi.org/10.5281/zenodo.14926184)
 [![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/yanningyin/Coulomb-crystal-CNN/blob/main/LICENSE)
 
 </div>
